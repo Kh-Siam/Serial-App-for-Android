@@ -18,4 +18,4 @@ Any data received by the app from the microcontroller will be shown under the "D
 
 All of the code is implemented in "/serial_app/lib/main.dart". The code is divided and commented on for it to be easy enough to modify.
 
-> Please Ensure that flutter is installed successfully before using pulling this repo.
+> Please Ensure that flutter is installed successfully before pulling this repo.
