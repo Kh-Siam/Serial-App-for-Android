@@ -1,6 +1,6 @@
 # A Serial Android App
 ## _Description_
-This is an app that is implemented using Flutter framework. It connects an android phone to a microcontroller through UART protocol using a USBttl. The app's signals are hard-coded based on the functionalities desired in my project. Changing and modifying these signals should be fairly easy.
+This is an app that is implemented using Flutter framework. It connects an android phone to a microcontroller through UART protocol using a USB TTL. The app's signals are hard-coded based on the functionalities desired in my project. Changing and modifying these signals should be fairly easy.
 
 Keep in mind that this was a very simple application as the intention behind it was to learn flutter's basics and not much was changed nor added to the example project flutter offers. The "ATSTAMP.hex" file is implemented by the same professor who supervised this project and the author of this [Article](https://circuitcellar.com/research-design-hub/mcu-based-ic-links-usb-to-legacy-pc-i-o/), Dr. Hossam Abdelbaki.
 
